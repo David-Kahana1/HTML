@@ -3,21 +3,8 @@ Hi, I'm David
 I'm a QA Software Test Engineer certified by ISTQB, with hands-on experience in manual testing, bug reporting, and test case design.  
 
  What you'll find here:
-- Test case examples 
-- Sample bug reports and issue tracking
-- SQL query practice for database testing
-- Summary reports from simulated projects
-- QA documentation from my training and projects
-
- Skills & Tools:
-- Manual Testing  
-- Test Design & Execution  
-- Bug Reporting  
-- Jira  
-- SQL (MySQL)  
-- Windows & Linux OS  
-- ISTQB Foundation Level
-
-  To open the HTML page, click the link below.
+- To open the HTML page, click the link below:
        https://david-kahana1.github.io/HTML/
- To view the source code, open the file 'index.html'.
+- To view the source code, open the file- 'index.html'.
+
+ 
