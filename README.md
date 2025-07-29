@@ -16,5 +16,8 @@ I'm a QA Software Test Engineer certified by ISTQB, with hands-on experience in 
 - Jira  
 - SQL (MySQL)  
 - Windows & Linux OS  
-- ISTQB Foundation Level  
-https://david-kahana1.github.io/HTML/
+- ISTQB Foundation Level
+
+  To open the HTML page, click the link below.
+       https://david-kahana1.github.io/HTML/
+ To view the source code, open the file 'index.html'.
