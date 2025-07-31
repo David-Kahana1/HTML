@@ -1,0 +1,15 @@
+﻿p.first {
+    color: Teal;
+    font-family: 'Papyrus';
+    font-size: 35px;
+    text-align: center;
+}
+p.secend {
+    color: rebeccapurple;
+    font-family: 'Monaco';
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 15px;
+    cursor: wait;
+    background-color: LightGreen;
+}
